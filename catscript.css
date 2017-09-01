@@ -1,0 +1,38 @@
+*{
+font-family: 'Della Respira', serif;
+font-family: 'Akronim', cursive;
+font-family: 'Galindo', cursive;
+font-family: 'Amita', cursive;
+font-family: 'Snowburst One', cursive;
+}
+
+#cutecat{
+  border: 10px cyan solid;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+h1{
+  font-family: 'Amita', cursive;
+  font-size: 45px;
+  color: rgb(100, 66, 72);
+}
+
+#catchphrase{
+  font-family: 'Della Respira', serif;
+}
+
+div.title{
+  padding: 0, 0, 0, 0;
+  margin: 0 10px;
+  text-align: center;
+  border: 5px black solid;
+}
+
+div.catchphrase{
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 0;
+  border: 5px black solid;
+}
